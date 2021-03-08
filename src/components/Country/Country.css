@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+.country{
+    float: left;
+     width: 40%;
+     padding: 5px;
+     margin: 5px;
+     box-shadow: 0 2px 2px 0 white; 
+     background-color: #f1f1f1;
+     border-radius: 5px;
+     font-family: 'Akaya Telivigala', cursive;
+}
+
+.country img{
+    height: 200px;
+}
+h5,p{
+    font-size: 16px;
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .country {
+      width: 100%;
+    }
+  }

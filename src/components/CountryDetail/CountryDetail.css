@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.Img{
+    width: 200px;
+}
+.card{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Akaya Telivigala', cursive;
+}
+h4{
+    font-family: 'Akaya Telivigala', cursive;
+}
